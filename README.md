@@ -1,4 +1,4 @@
 #Android com Kotlin
 ## Curso Udemy - Desenvolvimento Android
 
-![Imagem APP](https://bitbucket.org/Jardier/minhas-anotacoes/src/master/app/src/main/res/drawable/imagem-app.png)
+![Imagem APP](https://github.com/Jardier/minhas-anotacoes/blob/master/app/src/main/res/drawable/imagem-app.png)
